@@ -7,7 +7,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>고객센터 메인 페이지</title>
 <style type="text/css">
+
 /* 헤더 css */
+
 .HeaderContainer {
 	width: 90%;
 	margin: 0 auto;
@@ -68,6 +70,7 @@
 }
 
 /* 고객센터 메인 페이지 css */
+
 img {
 	margin-right: 130px;
 	margin-top: -20px;
