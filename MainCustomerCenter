@@ -23,7 +23,6 @@
 	left: 2%;
 	top: 5%;
 }
-
 .search {
 	display: inline-block;
 	width: 70%;
@@ -32,20 +31,17 @@
 	top: 38%;
 	left: 3%;
 }
-
 .searchbox {
 	width: 90%;
 	height: 100%;
 	border-radius: 0.2em;
 }
-
 .searchBtn {
 	width: 38px;
 	height: 100%;
 	background-color: #9bb7d6;
 	border-radius: 0.5em;
 }
-
 .headerMenu {
 	display: inline-block;
 	position: relative;
@@ -53,7 +49,6 @@
 	float: right;
 	color: #9bb7d6;
 }
-
 .serchDTL {
 	display: inline-block;
 	position: relative;
@@ -61,13 +56,11 @@
 	left: 18.5%;
 	bottom: 20%;
 }
-
 .searchDTLBTN {
 	height: 30px;
 	background-color: #9bb7d6;
 	border-radius: 0.5em;
 }
-
 /* 고객센터 메인 페이지 css */
 
 img {
